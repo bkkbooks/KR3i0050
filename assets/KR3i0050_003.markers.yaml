@@ -153,6 +153,7 @@ markers:
   - {type: indent, offset: 355, content: 　, id: KR3i0050_krp_003-bkkind28}
   - {type: substitution, offset: 364, original: 呉, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19438}}
   - {type: punctuation, offset: 369, content: (, id: KR3i0050_krp_003-bkkpn1}
+  - {type: voice, offset: 369, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 370, content: /, id: KR3i0050_krp_003-bkkpn2}
   - {type: punctuation, offset: 371, content: ), id: KR3i0050_krp_003-bkkpn3}
   - {type: 'kr:newline', offset: 376, content: '
@@ -284,6 +285,7 @@ markers:
       ', id: KR3i0050_krp_003-bkkkrnewl50}
   - {type: line-break, offset: 742, content: '', id: KR3i0050_WYG_003-3b06}
   - {type: punctuation, offset: 753, content: (, id: KR3i0050_krp_003-bkkpn4}
+  - {type: voice, offset: 753, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 755, content: /, id: KR3i0050_krp_003-bkkpn5}
   - {type: punctuation, offset: 756, content: ), id: KR3i0050_krp_003-bkkpn6}
   - {type: 'kr:newline', offset: 756, content: '
@@ -1490,6 +1492,7 @@ markers:
   - {type: indent, offset: 4099, content: 　, id: KR3i0050_krp_003-bkkind263}
   - {type: substitution, offset: 4106, original: 躶, replacement: 裸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17653}}
   - {type: punctuation, offset: 4107, content: (, id: KR3i0050_krp_003-bkkpn7}
+  - {type: voice, offset: 4107, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 4108, content: /, id: KR3i0050_krp_003-bkkpn8}
   - {type: punctuation, offset: 4109, content: ), id: KR3i0050_krp_003-bkkpn9}
   - {type: substitution, offset: 4112, original: 殻, replacement: 殼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19370}}
@@ -2172,4 +2175,4 @@ markers:
 
       ', id: KR3i0050_krp_003-bkkkrnewl395}
   back: []
-hash: sha256:8c14a3e374d27887c955de9ca30a5ad383c2e3da52686f69da7ba2972d8463b2
+hash: sha256:dcbff2d408924540e297a9e5e1afd1005d3442acd6a3083a6e65202151b362b7
